@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nishantbahri&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 
