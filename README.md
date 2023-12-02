@@ -32,7 +32,9 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 ### AWS Cloud
 
-![EMR](![image](https://github.com/nishantbahri/nishantbahri/assets/18424366/395f31ce-d283-4cf9-8b4a-f6f5774ab475))
+
+![EMR](https://github.com/nishantbahri/nishantbahri/assets/18424366/b50f1fb4-41ea-44ff-b800-e7d88827476e)
+
 
 
 ---
