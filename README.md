@@ -18,9 +18,9 @@
 
 I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Data Engineer @GoDaddy
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I read tech articles.
+- 🔭 Working as a Data Engineer @GoDaddy
+- 🌱 Constantly learning and exploring new technologies.
+- ⚡  In my free time I read tech articles, solving problems and building things.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nishant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-bahri/)
 
 ---
