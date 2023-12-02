@@ -57,4 +57,5 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ### ✍️ Projects : 
 - [Covid Data analysis and visualization](https://github.com/nishantbahri/covidDataViz)
    <br>This project analyses the COVID data and visualizes the data in various charts</br>
-- [Movie Lens Data Analysis Using PySpark](https://medium.com/analytics-vidhya/movie-lens-data-analysis-using-pyspark-for-beginners-9c0f5f21eaf5)
+- [](https://github.com/nishantbahri/Data-Engineering-Practise)
+  <br>Commiting all the interesting problems I face in SQL, Python and data engineering assignments</br>
