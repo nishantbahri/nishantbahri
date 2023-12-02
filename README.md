@@ -55,5 +55,4 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️ Projects : 
-<a href="https://github.com/anshumandubey/swiftly">Swiftly</a></b>: This project implements reinforcement learning to generate a self-driving car-agent with deep learning network to maximize its speed.
-
+<a href="https://github.com/nishantbahri/covidDataViz">Covid Data analysis and visualization </a></b>: This project analyses the covid data and visualized the data in various charts. 
