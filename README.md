@@ -22,8 +22,8 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - 🌱 Constantly learning and exploring new technologies.
 - ⚡  In my free time I read tech articles, solving problems and building things.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nishant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-bahri/)
-    📧 <a href="mailto:nishantbahri08@gmail.com">email</a>
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantbahri08@gmail.com)
+    
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
