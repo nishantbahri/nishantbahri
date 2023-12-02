@@ -56,13 +56,6 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishantbahri&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbahri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ✍️ Blog Posts : 
 - [How to terminate idle EMR cluster through airflow and notify on the slack channel( save $$$ )](https://nishantbahri.medium.com/how-to-terminate-idle-emr-cluster-through-airflow-and-notify-on-the-slack-channel-save-ba7da9317113)
 - [Movie Lens Data Analysis Using PySpark](https://medium.com/analytics-vidhya/movie-lens-data-analysis-using-pyspark-for-beginners-9c0f5f21eaf5)
@@ -77,4 +70,12 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
    <br>This project analyses the COVID data and visualizes the data in various charts</br>
 - [Data Engineering Practise](https://github.com/nishantbahri/Data-Engineering-Practise)
   <br>Commiting all the interesting problems I face in SQL, Python, and data engineering assignments</br>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishantbahri&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbahri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 
