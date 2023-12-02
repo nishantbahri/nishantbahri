@@ -33,7 +33,8 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Spark](devicon:apachespark) 
+![Spark](<iconify-icon icon="devicon-plain:apachespark-wordmark"></iconify-icon>) 
+<iconify-icon icon="devicon-plain:apachespark-wordmark"></iconify-icon>
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
