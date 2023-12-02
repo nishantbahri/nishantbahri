@@ -64,6 +64,7 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---
 
 ### ⌨️ Projects : 
 - [Covid Data Analysis & Visualization](https://github.com/nishantbahri/covidDataViz)
