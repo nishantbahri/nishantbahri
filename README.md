@@ -72,3 +72,9 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### ⌨️ Projects : 
+- [Covid Data analysis and visualization](https://github.com/nishantbahri/covidDataViz)
+   <br>This project analyses the COVID data and visualizes the data in various charts</br>
+- [Data Engineering Practise](https://github.com/nishantbahri/Data-Engineering-Practise)
+  <br>Commiting all the interesting problems I face in SQL, Python, and data engineering assignments</br>
+
