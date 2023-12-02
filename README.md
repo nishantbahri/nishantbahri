@@ -14,7 +14,7 @@
 
 <p align="center"><img src="computer working.gif" width="500" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### About Me :
 
 I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
