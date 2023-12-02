@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nishant-bahri/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
@@ -14,7 +13,7 @@
 
 <p align="center"><img src="computer working.gif" width="500" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### About Me :
 
 I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
