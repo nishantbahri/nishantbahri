@@ -57,6 +57,9 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ### ✍️ Blog Posts : 
 - [How to terminate idle EMR cluster through airflow and notify on the slack channel( save $$$ )](https://nishantbahri.medium.com/how-to-terminate-idle-emr-cluster-through-airflow-and-notify-on-the-slack-channel-save-ba7da9317113)
 - [Movie Lens Data Analysis Using PySpark](https://medium.com/analytics-vidhya/movie-lens-data-analysis-using-pyspark-for-beginners-9c0f5f21eaf5)
+- [Hedge Fund Interview SQL Question](https://nishantbahri.medium.com/crack-sql-interview-question-asked-by-a-hedge-fund-rows-clause-909b0b2fecb)
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
