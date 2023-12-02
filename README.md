@@ -29,7 +29,7 @@ I am a Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg)" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="[https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg](https://github.com/nishantbahri/nishantbahri/blob/main/icons/apachespark.svg)" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
