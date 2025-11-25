@@ -3,7 +3,7 @@
   
   # Hi there, I'm Nishant! 👋
   
-  ### 💼 Senior Data Engineer @GoDaddy
+  ### 💼 Data Engineer @Zalando
   
   <p>
     <a href="https://www.linkedin.com/in/nishant-bahri/">
@@ -29,10 +29,10 @@
 
 ## 👨‍💻 About Me
 
-🔭 Senior Data Engineer at **GoDaddy** with a passion for building scalable data solutions  
+🔭 Data Engineer at **Zalando** with a passion for building scalable data solutions  
 🌱 Constantly exploring the latest in **Big Data**, **Cloud Technologies**, and **Data Engineering**  
 ⚡ Tech enthusiast who loves solving complex problems and sharing knowledge through writing  
-📍 Based in **India**
+📍 Based in **Berlin**
 
 ---
 
