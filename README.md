@@ -39,7 +39,7 @@
 ## ✨ Interests
 
 🎶 Passionate about solving problems in the **Music** and **Sports** domains  
-⚽ Huge fan of **Liverpool FC** (Season 2025-2026 makes me cry)
+⚽ Huge fan of **Liverpool FC** (Season 2025-2026 makes me cry)  
 🤘 Enjoy listening to **System of a Down**, **Linkin Park**, **Seedhe Maut**
 
 ---
