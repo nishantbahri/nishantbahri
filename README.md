@@ -36,7 +36,7 @@
 
 ---
 
-## ❤️ Interests
+## ✨ Interests
 
 🎶 Passionate about solving problems in the **Music** and **Sports** domains  
 ⚽ Huge fan of **Liverpool FC** (Season 2025-2026 makes me cry)
