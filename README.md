@@ -32,7 +32,15 @@
 🔭 Data Engineer at **Zalando** with a passion for building scalable data solutions  
 🌱 Constantly exploring the latest in **Big Data**, **Cloud Technologies**, and **Data Engineering**  
 ⚡ Tech enthusiast who loves solving complex problems and sharing knowledge through writing  
-📍 Based in **Berlin**
+📍 Based in **Berlin, Germany**
+
+---
+
+## ❤️ Interests
+
+🎶 Passionate about solving problems in the **Music** and **Sports** domains  
+⚽ Huge fan of **Liverpool FC** (Season 2025-2026 makes me cry)
+🤘 Enjoy listening to **System of a Down**, **Linkin Park**, **Seedhe Maut**
 
 ---
 
